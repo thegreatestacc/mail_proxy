@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MailBoxGenerator/MailBoxGenerator.iml" filepath="$PROJECT_DIR$/MailBoxGenerator/MailBoxGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MailContentGenerator/MailContentGenerator.iml" filepath="$PROJECT_DIR$/MailContentGenerator/MailContentGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MailSender/MailSender.iml" filepath="$PROJECT_DIR$/MailSender/MailSender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mail_proxy.iml" filepath="$PROJECT_DIR$/.idea/mail_proxy.iml" />
+    </modules>
+  </component>
+</project>
